@@ -1,5 +1,5 @@
 {
-    "complilerOptions": {
+    "compilerOptions": {
         "noImplicitAny": false
     }
 }
